@@ -1,0 +1,4 @@
+# Secrets
+*.json
+.env
+firebase_key.json
